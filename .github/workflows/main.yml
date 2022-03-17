@@ -26,3 +26,5 @@ jobs:
         uses: TriPSs/conventional-changelog-action@v3
         with:
           github-token: ${{ secrets.ACCESS_TOKEN }}
+          branch: gh-pages
+          folder: docs/.vuepress/dist
