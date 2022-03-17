@@ -18,6 +18,8 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
         with:
+          lfs: true
+          token: ${{ secrets.ACCESS_TOKEN }}
           persist-credentials: false
 
       # 生成静态文件
