@@ -2,11 +2,12 @@
  * @Description: Config.js
  * @Author: cy2020
  * @Date: 2022-03-16 14:13:32
- * @LastEditTime: 2022-03-17 11:34:24
+ * @LastEditTime: 2022-03-17 11:51:13
  */
 module.exports = {
   title: '飞扬的博客',
   description: '专注于 JavaScript、Node.js、可视化 的前端开发',
+  base: '/blog-docs/',
   head: [
     ['link', { rel: 'manifest', href: '/manifest.json' }],
   ],

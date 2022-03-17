@@ -17,12 +17,12 @@ git add -A
 git commit -m 'deploy'
 
 # 如果发布到 https://<USERNAME>.github.io
-git push -f git@github.com:<chongyangwang>/<chongyangwang>.github.io.git master
+# git push -f git@github.com:<chongyangwang>/<chongyangwang>.github.io.git master
 
 # 如果发布到 https://<USERNAME>.github.io/<REPO>
 # git push -f git@github.com:<USERNAME>/<REPO>.git master:gh-pages
 
 # 把上面的 <USERNAME> 换成你自己的 Github 用户名，<REPO> 换成仓库名，比如我这里就是：
-# git push -f git@github.com:chongyangwang/website.git master:gh-pages
+git push -f git@github.com:chongyangwang/blog-docs.git main:gh-pages
 
 cd -
