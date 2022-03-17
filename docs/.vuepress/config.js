@@ -2,7 +2,7 @@
  * @Description: Config.js
  * @Author: cy2020
  * @Date: 2022-03-16 14:13:32
- * @LastEditTime: 2022-03-17 11:51:13
+ * @LastEditTime: 2022-03-17 14:48:49
  */
 module.exports = {
   title: '飞扬的博客',
@@ -46,6 +46,16 @@ module.exports = {
         {
           title: '知识图谱',
           path: '/frontend/'
+        },
+        {
+          title: 'JavaScript',
+          children: [
+            {
+              title: '前言',
+              path: 'javascript/'
+            },
+            'javascript/原型链'
+          ]
         },
         {
           title: 'Vue系列',
@@ -110,16 +120,6 @@ module.exports = {
                 'vue/buff/a'
               ]
             }
-          ]
-        },
-        {
-          title: 'JavaScript',
-          children: [
-            {
-              title: '前言',
-              path: 'javascript/'
-            },
-            'javascript/原型链'
           ]
         }
       ]
