@@ -1,0 +1,9 @@
+{
+    "name": "飞扬",
+    "short_name": "飞扬",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#2196f3",
+    "description": "飞扬的前端博客",
+    "theme_color": "blue"
+  }
