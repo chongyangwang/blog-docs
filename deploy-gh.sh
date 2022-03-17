@@ -1,4 +1,10 @@
 #!/usr/bin/env sh
+###
+ # @Description: 
+ # @Author: cy2020
+ # @Date: 2022-03-17 11:38:30
+ # @LastEditTime: 2022-03-17 14:26:37
+### 
 
 # 确保脚本抛出遇到的错误
 set -e
@@ -23,6 +29,6 @@ git commit -m 'deploy'
 # git push -f git@github.com:<USERNAME>/<REPO>.git master:gh-pages
 
 # 把上面的 <USERNAME> 换成你自己的 Github 用户名，<REPO> 换成仓库名，比如我这里就是：
-git push -f git@github.com:chongyangwang/blog-docs.git main:gh-pages
+git push -f https://github.com/chongyangwang/blog-docs.git master:gh-pages
 
 cd -
