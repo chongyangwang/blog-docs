@@ -2,7 +2,7 @@
  * @Description: Config.js
  * @Author: cy2020
  * @Date: 2022-03-16 14:13:32
- * @LastEditTime: 2022-03-17 10:09:57
+ * @LastEditTime: 2022-03-17 11:34:24
  */
 module.exports = {
   title: '飞扬的博客',
