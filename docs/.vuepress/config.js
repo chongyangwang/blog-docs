@@ -3,6 +3,7 @@ module.exports = {
   base: '/blog-docs/',
   description: '专注于 JavaScript、Node.js、可视化方向的前端开发',
   head: [
+    ['meta', { name: 'keywords', content: '飞扬的博客'}]
     ['link', { rel: 'manifest', href: '/manifest.json' }],
   ],
   theme: 'reco',
