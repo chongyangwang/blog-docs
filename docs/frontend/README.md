@@ -1,9 +1,7 @@
-<!--
- * @Description: 
- * @Author: cy2020
- * @Date: 2022-03-16 15:17:43
- * @LastEditTime: 2022-03-18 13:40:16
--->
-# 前端知识图谱
+### 前端知识图谱
 
+::: tip
+JavaScript是世界上最好的语言
+:::
+<br>
 <img src="../.vuepress/public/fe.jpeg" title="前端知识图谱" alt="前端知识图谱"/>
