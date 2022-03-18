@@ -4,10 +4,10 @@ name: Deploy GitHub Pages
 on:
   push:
     branches:
-      - main
+      - maater
   pull_request:
     branches:
-      - main
+      - master
 # 任务
 jobs:
   deploy:
