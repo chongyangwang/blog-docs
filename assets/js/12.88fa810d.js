@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[12],{574:function(t,e,n){"use strict";n.r(e);var s={name:"LastUpdated",props:["slot-key"],mounted:function(){this.$page.lastUpdated="2022/1/6 下午2:00:00"}},a=n(17),l=Object(a.a)(s,(function(){var t=this.$createElement;return(this._self._c||t)("div")}),[],!1,null,null,null);e.default=l.exports}}]);
