@@ -9,6 +9,6 @@ features:
 - title: 数据结构&算法
   details: 你的算法太菜了 需要深造一下。
 - title: TypeScript
-  details: 都2022年了你飞扬还不会用Ts。
+  details: 都2022年了飞扬你还不会用Ts。
 footer: MIT Licensed | Copyright © 2022 wcy
 ---
